@@ -4,8 +4,11 @@ End-to-end project coordination portfolio demonstrating planning, risk assessmen
 # Project Overview
 
 **Project:** Digital Intake Adoption Improvement
+
 **Role**: Project Coordinator
+
 **Duration**: 8 weeks
+
 **Project type**: Simulated project
 
 This project demonstrates how I approached a small operational improvement initiative from initial assessment through planning, execution, monitoring, evaluation and closeout.
@@ -31,7 +34,7 @@ The project focuses on identifying adoption barriers, coordinating targeted impr
 [!Jira Project Board](https://meghana05.atlassian.net/jira/software/projects/DIAI/boards/35?filter=&groupBy=none&atlOrigin=eyJpIjoiMzMyZjQ1ZWMzZDFkNGJlZGE0ZGFiZjBjZGRmMjU2MzYiLCJwIjoiaiJ9) 
 
 # Project Lifecycle
-*Assess - Plan - Execute - Monitor - Evaluate - Close*
+*Assess → Plan → Execute → Monitor → Evaluate → Close*
 
 # Project Note
 This is a simulated project created for portfolio demonstration purposes.The project scenario, operational data, pilot results, and stakeholder inputs are illustrative. External research is used where applicable to inform the project context and assessment approach.
