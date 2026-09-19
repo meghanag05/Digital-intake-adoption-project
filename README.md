@@ -11,6 +11,8 @@ End-to-end project coordination portfolio demonstrating planning, risk assessmen
 
 **Project type**: Simulated project
 
+[Jira Project Board](https://meghana05.atlassian.net/jira/software/projects/DIAI/boards/35?filter=&groupBy=none&atlOrigin=eyJpIjoiMzMyZjQ1ZWMzZDFkNGJlZGE0ZGFiZjBjZGRmMjU2MzYiLCJwIjoiaiJ9) 
+
 This project demonstrates how I approached a small operational improvement initiative from initial assessment through planning, execution, monitoring, evaluation and closeout.
 
 The project focuses on identifying adoption barriers, coordinating targeted improvements, managing project controls, and measuring outcomes against defines targets.
@@ -30,8 +32,6 @@ The project focuses on identifying adoption barriers, coordinating targeted impr
 - Microsoft Excel
 - Microsoft Word
 - GitHub
-
-[!Jira Project Board](https://meghana05.atlassian.net/jira/software/projects/DIAI/boards/35?filter=&groupBy=none&atlOrigin=eyJpIjoiMzMyZjQ1ZWMzZDFkNGJlZGE0ZGFiZjBjZGRmMjU2MzYiLCJwIjoiaiJ9) 
 
 # Project Lifecycle
 *Assess → Plan → Execute → Monitor → Evaluate → Close*
